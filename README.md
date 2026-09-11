@@ -3,9 +3,6 @@
 An interactive **Power BI Dashboard** designed to analyze college placement activity, recruiter participation, college-wise performance, regional placement trends, and salary patterns.
 
 ---
-## 🖥️ Dashboard Preview
-
-![College Placement Analytics Dashboard](Banner.png)
 
 ## 🎯 Project Objective
 
@@ -24,9 +21,8 @@ The **College Placement Analytics Dashboard** helps institutions analyze placeme
 
 ## 🖥️ Dashboard Preview
 
-> Add your dashboard screenshot inside the `screenshots` folder and update the filename below.
 
-![College Placement Analytics Dashboard](screenshots/dashboard.png)
+![College Placement Analytics Dashboard](Banner.png)
 
 ---
 
